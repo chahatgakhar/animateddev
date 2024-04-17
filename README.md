@@ -22,4 +22,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
-Visit Website [https://animateddev-cg.netlify.app/]
+>[Visit Website](https://animateddev-cg.netlify.app/)
