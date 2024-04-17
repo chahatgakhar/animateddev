@@ -1,0 +1,104 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "title": "General Contractors",
+            "slug": "general-contractors",
+            "description": "Get free consultation today from our experts or visit out website and fill out the form.",
+            "price": 99.99,
+            "instructor": "Chahat Gakhar",
+            "isFeatured": true,
+            "image": "https://images.pexels.com/photos/2219024/pexels-photo-2219024.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "id": 2,
+            "title": "Kitchen Renovation",
+            "slug": "kitchen-renovation",
+            "description": "Get free consultation today from our experts or visit out website and fill out the form.",
+            "price": 99.99,
+            "instructor": "Chahat Gakhar",
+            "isFeatured": true,
+            "image": "https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "id": 3,
+            "title": "Bathroom Renovation",
+            "slug": "bathroom-renovation",
+            "description": "Get free consultation today from our experts or visit out website and fill out the form.",
+            "price": 99.99,
+            "instructor": "Chahat Gakhar",
+            "isFeatured": true,
+            "image": "https://images.pexels.com/photos/1078884/pexels-photo-1078884.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "id": 4,
+            "title": "Basement Renovation",
+            "slug": "basement-renovation",
+            "description": "Get free consultation today from our experts or visit out website and fill out the form.",
+            "price": 99.99,
+            "instructor": "Chahat Gakhar",
+            "isFeatured": true,
+            "image": "https://images.pexels.com/photos/534220/pexels-photo-534220.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "id": 5,
+            "title": "Home Renovation",
+            "slug": "home-renovation",
+            "description": "Get free consultation today from our experts or visit out website and fill out the form.",
+            "price": 99.99,
+            "instructor": "Chahat Gakhar",
+            "isFeatured": true,
+            "image": "https://images.pexels.com/photos/53176/architecture-iron-steel-building-53176.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "id": 6,
+            "title": "General Contractors",
+            "slug": "general-contractors",
+            "description": "Get free consultation today from our experts or visit out website and fill out the form.",
+            "price": 99.99,
+            "instructor": "Chahat Gakhar",
+            "isFeatured": true,
+            "image": "https://images.pexels.com/photos/2219024/pexels-photo-2219024.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "id": 7,
+            "title": "Kitchen Renovation",
+            "slug": "kitchen-renovation",
+            "description": "Get free consultation today from our experts or visit out website and fill out the form.",
+            "price": 99.99,
+            "instructor": "Chahat Gakhar",
+            "isFeatured": false,
+            "image": "https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "id": 8,
+            "title": "Bathroom Renovation",
+            "slug": "bathroom-renovation",
+            "description": "Get free consultation today from our experts or visit out website and fill out the form.",
+            "price": 99.99,
+            "instructor": "Chahat Gakhar",
+            "isFeatured": false,
+            "image": "https://images.pexels.com/photos/1078884/pexels-photo-1078884.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "id": 9,
+            "title": "Basement Renovation",
+            "slug": "basement-renovation",
+            "description": "Get free consultation today from our experts or visit out website and fill out the form.",
+            "price": 99.99,
+            "instructor": "Chahat Gakhar",
+            "isFeatured": false,
+            "image": "https://images.pexels.com/photos/534220/pexels-photo-534220.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "id": 10,
+            "title": "Home Renovation",
+            "slug": "home-renovation",
+            "description": "Get free consultation today from our experts or visit out website and fill out the form.",
+            "price": 99.99,
+            "instructor": "Chahat Gakhar",
+            "isFeatured": false,
+            "image": "https://images.pexels.com/photos/53176/architecture-iron-steel-building-53176.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+    ]
+}
