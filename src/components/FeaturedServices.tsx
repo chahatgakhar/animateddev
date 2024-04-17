@@ -47,7 +47,7 @@ function FeaturedServices() {
     <div className="mt-20 text-center">
         <Button>
             <Link href={"/services"}
-            className="px-4 py-2 rounded hover:bg-gray-100 transition duration-200"
+            className="px-4 py-2 transition duration-200"
             >
             View All services
             </Link>
