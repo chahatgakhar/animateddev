@@ -5,14 +5,25 @@ import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
 import serviceData from "@/data/services.json"
 import Footer from "@/components/Footer";
 
+interface Service{
+  id: number,
+  title: string,
+  slug: string,
+  description: string,
+  price: number,
+  instructor: string,
+  isFeatured: boolean,
+  image: string,
+} 
+
 function page(){
   return (
     <>
     <div className="min-h-screen bg-black py-12 pt-36">
     <h1 className="text-4xl md:text-6xl text-center font-sans font-bold mb-4 text-white">All courses ({serviceData.services.length})</h1>  
     <div className="flex flex-wrap justify-center">
-        {serviceData.services.map((service) => (
-            <CardContainer className="inter-var mx-4">
+        {serviceData.services.map((service:Service) => (
+            <CardContainer key={service.id} className="inter-var mx-4">
             <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border ">
               <CardItem
                 translateZ="50"
